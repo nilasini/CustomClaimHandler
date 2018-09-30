@@ -18,4 +18,5 @@ Refer \[2] understand the implementations details.
 
 
 \[1] https://jwt.io/
-\[1] https://medium.com/@nilasini/sso-within-two-sps-while-using-a-custom-authenticator-and-a-custom-claim-handler-wso2is-5-3-0-bd473361ddf6
+
+\[2] https://medium.com/@nilasini/sso-within-two-sps-while-using-a-custom-authenticator-and-a-custom-claim-handler-wso2is-5-3-0-bd473361ddf6
